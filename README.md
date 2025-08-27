@@ -4,17 +4,17 @@ Tutorials and guides for OpenAI x IDE sandbox sessions.
 
 
 - `Sandbox 0: Prequisites`
-    - Basics: 
+    - Basics: setups, codex CLI, OpenAI API Key
 - `Sandbox 1`
     - Lecture 1: Creativity and Ideation
     - Lecture 2: Science & Technology Principles / AI SOTA/Landscape/History: “Understanding emerging capabilities of AI” / technologies that are shaping our future
-    - Workshop / Genius Bar: 
+    - Workshop / Genius Bar + Menu: Basic setups fix/technical support / I want to do this... is it possible?
 - `Sandbox Spin-off`
     - Guest talk by Jody Hudson-Powell, Partner at Pentagram.
 - `Sandbox 2`
     - Lecture 3: Opportunity Mapping: Exploring open space for new interactions
     - Lecture 4: Prototyping Lo-fi prototyping for HW/SW
-    - Workshop / Genius Bar:
+    - Workshop / Genius Bar + Menu: I want to do this... how to do this?
 
 ### Quick links
 - [OpenAI API Platform](https://platform.openai.com/): For API management  
