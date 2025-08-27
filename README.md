@@ -1,20 +1,39 @@
-# OpenAI-IDE Sandbox Session
-Tutorials and guides for OpenAI x IDE.
-Sandbox session
+# OpenAI-IDE Sandbox Sessions
+**Designing Beyond Conversational Interfaces**   
+Tutorials and guides for OpenAI x IDE sandbox sessions.
 
 
-## Get started
+- `Sandbox 0: Prequisites`
+    - Basics: 
+- `Sandbox 1`
+    - Lecture 1: Creativity and Ideation
+    - Lecture 2: Science & Technology Principles / AI SOTA/Landscape/History: “Understanding emerging capabilities of AI” / technologies that are shaping our future
+    - Workshop / Genius Bar: 
+- `Sandbox Spin-off`
+    - Guest talk by Jody Hudson-Powell, Partner at Pentagram.
+- `Sandbox 2`
+    - Lecture 3: Opportunity Mapping: Exploring open space for new interactions
+    - Lecture 4: Prototyping Lo-fi prototyping for HW/SW
+    - Workshop / Genius Bar:
 
-## 
+### Quick links
+- [OpenAI API Platform](https://platform.openai.com/): For API management  
+- [OpenAI Codex CLI Repo](https://github.com/openai/codex)  
+- [What is AGENTS.md?](https://agents.md/)  
+
+## FAQs
+
 
 ---
-**OpenAI x IDE 2025 / IDE Fundamentals**    
+**OpenAI x IDE Sandbox Sessions 2025**    
 
-Module Leads |    
-OpenAI | 
-Sandbox Document | Chanwoo Lee (Visiting Lecturer)
+Document by Chanwoo Lee (visiting lecturer).  
+Please feel free to contact me if you have any questions (Genius Bar Remote Support!): chanwoo.lee(at)imperial.ac.uk  
 
+**IDE Fundamentals 2025**  
+Module Leads     
+OpenAI  
 
-MA/MSc Innovation Design Engineering   
+**MA/MSc Innovation Design Engineering**   
 Dyson School of Design Engineering, Imperial College London  
 School of Design, Royal College of Art
