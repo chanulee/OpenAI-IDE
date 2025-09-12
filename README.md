@@ -1,5 +1,5 @@
 # OpenAI-IDE Sandbox Sessions
-- We are partnering with OpenAI to explore post-conversational AI interfaces, putting innovation methodology into practice while experiencing the IDE approach to design engineering challenges.
+- We are partnering with **OpenAI** to explore **post-conversational AI interfaces**, putting innovation methodology into practice while experiencing the IDE approach to design engineering challenges.
 - We've designed four Sandbox sessions to help students navigate the SOTA AI landscape, spot opportunities for design engineers, set up developer environment, and build practical AI skills, supporting both current module and future IDE modules.
 <details>
 <summary><h3>Brief: Designing Beyond Conversational Interfaces</h3></summary>
@@ -18,34 +18,41 @@
 </details>
 
 ## Structure
-- `Sandbox 0: Kickoff OYOT - On Your Own Time`
+- `Sandbox 0: Setting Up` `OYOT - On Your Own Time`
     - All the technical stuff so that students can come back later
     - [Video]()
-- `Sandbox 1: sdf Sep 15`
-    - Lecture: AI SOTA / Landscape / History: “Understanding emerging capabilities of AI” / how to use genius bar / What to expect
-    - Group Workshop: Ideation, Exploration
+- `Sandbox 1: Kickoff` `Sep 15`
+    - Lecture: AI SOTA / Intro
+    - Group Work
     - Genius Bar
         - Support for Sandbox 0: basic setups "This was not working..."
         - Scoping the project "We are thinking about this... is it possible?"
         - Quick check of understanding "Does it make sense?"
         - Reference Search "Is there any interesting projects around this topic?"
-- `Sandbox Spin-off TBD`
-    - Guest talk by Jody Hudson-Powell, Partner at Pentagram.
-- `Sandbox 2: sdf Sep 22`
-    - Workshop: Lo-Fi prototyping with AI+
+- `Sandbox 2: Prototyping` `Sep 22`
+    - Group Workshop: Lo-Fi prototyping with AI+
     - Genius Bar
         - All the menus from Sandbox 1
         - Actual build help "We want to do this... how do we this?"
+        - Choosing the tech stack and structuring the system
         - Choosing the right tool for the project "What should we use to build it?"
+- `Sandbox Spin-off` `TBD`
+    - Guest talk TBD
 
 ## Quick links & References
+- [Cursor](https://cursor.com/)
+- [Github Desktop App](https://desktop.github.com/download/)
 - [OpenAI API Platform](https://platform.openai.com/)
-- [OpenAI Codex CLI Repo](https://github.com/openai/codex)  
+- [OpenAI Codex](https://openai.com/codex/)
+- [Lovable](https://lovable.dev/)
+- [v0](https://v0.app/)
+- [Stanford HAI](https://www.youtube.com/@stanfordhai/videos)
+- [AHA MIT Media Lab](https://www.media.mit.edu/projects/aha-seminar-series/overview/)
 
 ---
 ### **OpenAI x IDE Sandbox Sessions**    
 
-Document by Chanwoo Lee (visiting lecturer).  
+Document by Chanwoo Lee (Visiting Lecturer).  
 Please feel free to contact me if you have any questions (Genius Bar Remote Support!): chanwoo.lee@imperial.ac.uk  
 
 **IDE Fundamentals 2025**  
