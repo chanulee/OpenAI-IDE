@@ -20,7 +20,8 @@
 ## Structure
 - `Sandbox 0: Setting Up` `OYOT - On Your Own Time`
     - All the technical stuff so that students can come back later
-    - [Video]()
+    - [Slide](https://github.com/chanulee/OpenAI-IDE/blob/main/sandbox-0.pdf)
+    - Video Coming Soon
 - `Sandbox 1: Kickoff` `Sep 15`
     - Lecture: AI SOTA / Intro
     - Group Work
