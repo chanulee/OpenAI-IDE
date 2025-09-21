@@ -57,8 +57,8 @@ Document by Chanwoo Lee (Visiting Lecturer).
 Please feel free to contact me if you have any questions (Genius Bar Remote Support!): chanwoo.lee@imperial.ac.uk  
 
 **IDE Fundamentals 2025**  
-Module Leads: Andrew Brand,     
-OpenAI:  
+Module Leads: Andrew Brand, Dr Bjorn Sommer    
+OpenAI: Ed Bayes
 
 **MA/MSc Innovation Design Engineering**   
 Dyson School of Design Engineering, Imperial College London  
