@@ -21,7 +21,7 @@
 - `Sandbox 0: Setting Up` `OYOT - On Your Own Time`
     - All the technical stuff so that students can come back later
     - [Slide](https://github.com/chanulee/OpenAI-IDE/blob/main/sandbox-0.pdf)
-    - Video Coming Soon
+    - [Video](https://youtu.be/7uBec6PF3d4)
 - `Sandbox 1: Kickoff` `Sep 15`
     - Lecture: AI SOTA / Intro
     - Group Work
@@ -39,6 +39,13 @@
         - Choosing the right tool for the project "What should we use to build it?"
 - `Sandbox Spin-off` `TBD`
     - Guest talk TBD
+
+## Cursor Extensions
+- [Codex]((https://openai.com/codex/))
+- [Live Preview](https://marketplace.cursorapi.com/items/?itemName=ms-vscode.live-server)
+- Python
+- C/C++
+- [VSCode PDF](https://marketplace.cursorapi.com/items/?itemName=tomoki1207.pdf)
 
 ## Quick links & References
 - [Cursor](https://cursor.com/)
